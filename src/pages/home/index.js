@@ -7,7 +7,7 @@ export default function index() {
         <main className=''>
             <section class="Faixa-1">
             <header class="Entradas">
-                <img class="Logo" src="../../src/assets/images/logoo.png" alt='logoo'/>
+                <img class="Logo" src="/public/images/logoo.png" alt='logoo'/>
                 <a class="Entrada1" href="../menu3/index.html">VER PETS</a>
                 <a class="Entrada2" href="../pages/index.html">LOGIN</a>
                 <img class="Login" src="../assets/images/Loginn.svg" alt='loginn'/>

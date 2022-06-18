@@ -1,6 +1,5 @@
 import './index.scss';
 
-
 export default function index() {
     
     return(
@@ -12,7 +11,7 @@ export default function index() {
             <div className="remover">Remover</div>
         </div>
         <div className="contatos">
-            <p>11 <img className="Login" src="../assets/images/Foto.png" alt='foto'/></p>
+            <p>11 <img className="Login" src="./src/images/foto.png" alt='foto'/></p>
         <a className="Pagina-Inicial" href="../home/index.html">Home</a>
         <h1>Meus pets</h1>
         <a className="Mais-Pets" href="../menu/index.html">Adic. +</a>
@@ -53,7 +52,7 @@ export default function index() {
                     Pq. Res. Cocaia <br/>
                     Nº20 <br/>
                 <p> São Paulo, SP</p>
-                <img className="Alicia" src="../assets/images/Alicia.jpg" alt='alicia'/>
+                <img class="Alicia" src="/src/images/Alicia.jpg" alt='alicia'/>
             </div>
 
         <div className="Card3">
